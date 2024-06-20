@@ -69,3 +69,8 @@ A pull request is a proposal to merge a set of changes from one branch into anot
 13. How do you find a specific commit in the history?
 You can use the command git log
 
+NOTES
+1. Always make small commits 
+2. Name your branch proffesionally ,let it aline with branching strategy like feature, develop hotfix,release just to name a few
+3. Keep to small frequent commit
+4. Kepp to frequent commits 
