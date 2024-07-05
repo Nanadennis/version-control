@@ -1,4 +1,3 @@
-How to creat an iam user in IDE 
 terraform {
   required_providers {
     aws = {
